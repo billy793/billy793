@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub 👋
 
-Je m'appelle Billy Rogier je suis développeur web. J'adore créer des applications, voir mes idées se concrétiser et trouver des solutions aux problèmes techniques. J'ai travaillé sur des projets variés, ce qui m'a permis de toucher à plein de technos et de toujours apprendre.
+Je m'appelle Billy je suis développeur web. J'adore créer des applications, voir mes idées se concrétiser et trouver des solutions aux problèmes techniques. J'ai travaillé sur des projets variés, ce qui m'a permis de toucher à plein de technos et de toujours apprendre.
 
 ## 💻 Mes technos de cœur
 
@@ -26,13 +26,6 @@ Je m'appelle Billy Rogier je suis développeur web. J'adore créer des applicati
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/billy_rogier) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/billyrogier) 
-
-## 📧 Contact
-
-Vous pouvez me contacter par e-mail à [billy.rogier@gmail.com] ou via la page contact de mon [portfolio](https://billyrogier.com/#contact).
 
 Merci de visiter mon profil GitHub !
 
